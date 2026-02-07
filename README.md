@@ -1,4 +1,6 @@
-# 📊 Customer Churn Analysis – Power BI Dashboard
+# 📊 Customer Churn Analysis – Power BI Dashboard <img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/c24287f0-b308-489b-9010-9b100f16cb44" />
+
+
 
 ## 🔍 Project Overview
 This project analyzes customer churn behavior using Power BI to identify key drivers of customer attrition and retention risks.
